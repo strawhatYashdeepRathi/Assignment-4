@@ -37,6 +37,10 @@ button{
     padding: 14px 40px;
     transition-duration: 0.3s;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 button:hover{
     background-color: gray;
 }
