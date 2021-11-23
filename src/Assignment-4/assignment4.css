@@ -20,7 +20,7 @@ header{
 header h1{
     float: left;
     text-indent:-9999px;
-    background:url('./images/dog-icon.svg') no-repeat;
+    background:url('https://raw.githubusercontent.com/turingschool-examples/introductory-static-site/67890c023f82e1527b4e755155e33946643e6e4f/images/dog-icon.svg') no-repeat;
     height:35px;
     width:35px;
     margin-top:8px;
